@@ -1,0 +1,10 @@
+.vs/
+packages/
+bin/
+obj/
+.vscode/
+*.exe
+Debug/
+Release/
+Output/
+node_modules/
