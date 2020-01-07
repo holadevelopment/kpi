@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	  <meta charset="utf-8">
+      <title>Interior Design Studio</title>
+
+	</head>
+	
+	<body background="C:\C:\Users\Hp\Desktop\STUDIES\KPI\3 semestr\web\5.jpg">
+	
+        
+            <p>Alina Sazonova</p>
+        
+            <h1> <p align="center">  Interior Design Studio 
+		
+			</p>
+			</h1>
+            <h4> <p align="center"> <em>
+                When design matters, our family of interior designers, architects, and contractors is there. <br /> 
+Our studio is a business that specializes in the art of problem-solving, the curation of new ideas, and the crafting of spirit-filled spaces where modern life is meant to be enjoyed.
+ </p>
+ </h4>
+ <p align="center"> Come to us for cozy, stylish and inspiring home.
+ </em>
+</p>
+    
+        <li>About us</li>
+        <li>Projects</li>
+        <li>Studio</li>
+		<li>Team</li>
+		<li>Contacts</li>
+            
+	
+    </body>
+</html>
